@@ -8,6 +8,7 @@
 
 * countdesc.py, sunlight.py, topwords.py uses the Capitol Words API of the
  sunlight foundation (http://sunlightfoundation.com/api/). Code is based on
+ http://www.codecademy.com/en/tracks/sunlight_python
 
 * giantbomb.py uses the Giantbomb API (http://www.giantbomb.com/api/)
 
